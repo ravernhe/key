@@ -1,12 +1,12 @@
 {
-    "p": "8kgVkxNdI5XgyidMdIbc-mHLrSNyQT6le7N8wv7Y4lZr4UWCaRS_oP787y4rhpK0Vie3zJGEBTiKFjsJ3B2KdCvduJsP8MiTij0CuQ4hV28DYlhVHB0c5uHN8tQ37zGeTP6v9lwBVToc6cmHdIUCg3cu1TWdrxwT9S5leBp8Aac",
-    "kty": "RSA",
-    "q": "1BpdJwksZE6b8XSQmabejE2IwQgSJ_4yer6CNyjFERBJi3lb1wnKvy90OHdWanKu_8ydSdG0loxjqJXM0rNg532RXqVpvMOwDCf3d2Bb8hepJVOJafGv2DepoAKtdRbevvUP30xewojt4rdh8VrlCC_ip9KL0QGXZABNd3juwgk",
-    "d": "HtjWc-556doETHQA-Ks1-ZmwHvrZ1fUQy7TjDInuKpXrQtBqVFiJUk2vgPIq3nFydoxpJZS4pk6RANf9nlCSqdsXCxmdx1ckR3qJD4Wa49TNXkGM9ldw9YXiuEM6kEzDR5_Floam5g-oSmzOm17NUi7IRVoO01xUNmFwGfFp1-ZlFTubBd5laTi1diSDQs6NkVfpE16RSPFE5HFd3TkOJjmLvkFhRM4o2pnPFPMGwoZ1R48H4u1GZV1zQhSfundE47pSrdMlyfs1TKDuZy_LRXrv1HAY-dWwbyWDien9RCbMr7JJ4khqCDANKddGGELMVjzfpITwYGQYd6qxQSQfUQ",
-    "e": "AQAB",
-    "kid": "1f9b3e3a-82a4-438c-b3f1-73783bf9d755",
-    "qi": "T2gc2lCsrVcHdJm5Rqua_yD0AxxW2zoZe6onK2ZZ5A3JLxi4Hc7qro5l82GfHJStWMFnHC11gPOb7smnPW-aCeEJV4sw5lAaW2v9wfgRoHDOhFgOP6xLETN1iotxPz18su1RRKP72QpW_K5irAwvRXttA88ZgQ5AwnDxG6VY8cg",
-    "dp": "7XQWqQH2a9UN7jLb7OzskPzeKP-vkCB9AaLlKRuqpxH6Q1vjt2dddMXUUfqXMBqCYlok-nq3wIIsXCNaw3-0Xa1MbgyTb_K1H2wySfp-VPn5gB6As8AYvnQaa97wPx8LPfzzqml76PK-uacJefqOfxiFLvOQaroDGW5yhma2mMs",
-    "dq": "okTlPYckIj2NysWOFy92Fcr_tAaTtWshfYygnMihM_PNAFrBa5v_NBN_C_Ao-dlxjxwgvaglTARt_j1U7WH04kXL4KgWZCcmWbZ9-iOLVITLkFX_zEDucjHroRJLWEg988QS95g66wPNU2VPFlKe5IuWESTgeO-JviUJHz0zFNk",
-    "n": "yLylWR55XHLzbeVyiDPSQ_aWcx_SD-J7TecbqtGTkszGmI9LIlAdJvFg_dS7NHLRTeHYPmBLhalNSShAN6xyCvmXetGHsDTC4b79liuHWDksb09dhAOKfBGYsua6hDcZTWDakIqfmhT0YqfYjaxjKUIttSxckCh0_6kg2glMUUD3qd58ojqpQjZJjDRUs1UyVxxdlAIACgtHzk0F3NsrouT1XtYap9ed8dvVIOwPg1jopqH-KWVUYdBm066-c42rtTVmG2JBuLkB47MQ8JduHJqD8bhhJZ41zfHB2duvoVTUMb82v9hcTucK4V1PMEc9YwaOEqzXKSVBvVT7uN6c3w"
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "yLylWR55XHLzbeVyiDPSQ_aWcx_SD-J7TecbqtGTkszGmI9LIlAdJvFg_dS7NHLRTeHYPmBLhalNSShAN6xyCvmXetGHsDTC4b79liuHWDksb09dhAOKfBGYsua6hDcZTWDakIqfmhT0YqfYjaxjKUIttSxckCh0_6kg2glMUUD3qd58ojqpQjZJjDRUs1UyVxxdlAIACgtHzk0F3NsrouT1XtYap9ed8dvVIOwPg1jopqH-KWVUYdBm066-c42rtTVmG2JBuLkB47MQ8JduHJqD8bhhJZ41zfHB2duvoVTUMb82v9hcTucK4V1PMEc9YwaOEqzXKSVBvVT7uN6c3w",
+      "e": "AQAB",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "sthack-2046-vip-key"
+    }
+  ]
 }
